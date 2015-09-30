@@ -8,8 +8,6 @@ Example usage:
   $ python bin/gen_lp.py ffpros-9-22-2015.csv | lp_solve | grep '_' | awk '{print $2, $1}' | grep '1 '
 """
 
-
-
 from collections import namedtuple
 from argparse import ArgumentParser
 from csv import DictReader
