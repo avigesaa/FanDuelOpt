@@ -1,1 +1,1 @@
-Miscellaneous approaches at generating FanDuel teams algorithmically.
+Various tools and (mostly failed) approaches for picking better FanDuel teams.
